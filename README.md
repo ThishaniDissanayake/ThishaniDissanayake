@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThishaniDissanayake
-- 🌱 I’m currently an Undergraduate at University of Moratuwa
+- 🌱 I am currently an undergraduate student at the University of Moratuwa
 - 📫 You can reach me via dissanayakenisansala2000@gmail.com
   
 
