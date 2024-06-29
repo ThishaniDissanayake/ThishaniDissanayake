@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thishani Dissanaayke</h1>
 <h3 align="center">I am currently an undergraduate student at the University of Moratuwa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thishanidissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="thishanidissanayake" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thishanidissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="thishanidissanayake" /> </p>
 
 - 🌱 I’m currently learning **C , React**
 
