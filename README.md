@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Thishani Dissanayke</h1>
+<h1 align="center">Hi 👋, I'm Thishani Dissanaayke</h1>
 <h3 align="center">I am currently an undergraduate student at the University of Moratuwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thishanidissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="thishanidissanayake" /> </p>
 
-- 🌱 I’m currently learning **C , React**
+- 🌱 I’m currently learning **C , React , Java**
 
 - 📫 How to reach me **dissanayakenisansala2000@gmail.com**
 
