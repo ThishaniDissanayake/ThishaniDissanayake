@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thishanidissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="thishanidissanayake" /> </p>
 
-- 🌱 I’m currently learning **C , React , Java**
+- 🌱 I’m currently learning **C , React , Java,Asp.net ,  Next.js**
 
 - 📫 How to reach me **dissanayakenisansala2000@gmail.com**
 
