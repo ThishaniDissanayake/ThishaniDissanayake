@@ -13,20 +13,21 @@
 
 ## 🚀 About Me
 
-I focus on building scalable backend systems and mastering DevOps practices.
+I am a **Full Stack Developer** with a strong focus on **backend engineering and DevOps practices**.
 
-I believe in:
-- Clean Architecture
-- Scalable System Design
-- Automation & CI/CD
-- Cloud-native development
-- Writing maintainable production-ready code
+I enjoy building:
 
-Currently:
-- 🌱 Deep diving into DevOps & cloud infrastructure
-- ⚙️ Exploring distributed systems & containerization
-- 💼 Open to backend & DevOps collaboration
-- 📢 Sharing my development journey
+- Scalable backend systems  
+- Clean and maintainable full-stack applications  
+- Cloud-ready architectures  
+- Automated CI/CD pipelines  
+
+Currently focusing on:
+
+- 🐳 Docker & Kubernetes  
+- ☁️ Cloud-native application development  
+- 🧠 System design & scalability  
+- ⚙️ Infrastructure automation  
 
 ---
 
@@ -56,7 +57,7 @@ Currently:
 
 ### 💻 Languages
 <p>
- <img src="https://skillicons.dev/icons?i=java,js,go,python,typescript" />
+ <img src="https://skillicons.dev/icons?i=java,js,go, c , C#,typescript" />
 </p>
 
 ### ⚙️ Frameworks & Backend
@@ -66,12 +67,12 @@ Currently:
 
 ### 🗄 Databases
 <p>
- <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
+ <img src="https://skillicons.dev/icons?i=mssql server,mongodb,mysql" />
 </p>
 
 ### 🚀 DevOps & Tools
 <p>
- <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,nginx" />
+ <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,nginx" />
 </p>
 
 ---
@@ -86,12 +87,11 @@ Currently:
 
 ## 🎯 2026 Goals
 
-- Become a Production-Ready Backend Engineer  
-- Master DevOps: Docker, Kubernetes, CI/CD pipelines  
-- Deploy scalable cloud-native applications  
-- Contribute to impactful open-source backend tools  
-- Build 2–3 real-world distributed system projects  
-- Land a Backend/DevOps Engineer role in a global tech company  
+- Become a production-ready **Full Stack & Backend Engineer**
+- Master DevOps tools: Docker, Kubernetes, CI/CD
+- Build and deploy scalable cloud-native systems
+- Contribute to open-source backend or DevOps projects
+- Design distributed systems with high reliability
 
 ---
 
