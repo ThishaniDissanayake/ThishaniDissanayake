@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cwdmt1cWR3Z2JjdnF2cHdid2xyOW45NG1uZWJkengybHBuNDdxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3cwdmt1cWR3Z2JjdnF2cHdid2xyOW45NG1uZWJkengybHBuNDdxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="50%" />
 </p>
 
 <h1 align="left">Hi 👋, I'm <strong>Thishani Dissanayake</strong></h1>
