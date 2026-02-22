@@ -57,17 +57,18 @@ Currently focusing on:
 
 ### 💻 Languages
 <p>
- <img src="https://skillicons.dev/icons?i=java,js,go, c , C#,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,js,go,c,cs,ts" />
 </p>
 
 ### ⚙️ Frameworks & Backend
 <p>
- <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet" />
 </p>
 
 ### 🗄 Databases
 <p>
- <img src="https://skillicons.dev/icons?i=mssql server,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### 🚀 DevOps & Tools
